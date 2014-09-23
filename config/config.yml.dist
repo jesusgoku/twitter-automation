@@ -1,0 +1,14 @@
+# Twitter credentials
+twitter:
+    consumer_key:
+    consumer_secret:
+    oauth_token:
+    oauth_token_secret:
+# Accounts for mention in tweets
+accounts:
+    - username1
+    - username2
+# Available messages to sent
+messages:
+    - "Hello {username} this is a testing, follow me"
+    - "What's up? {username}, This is a testing, follow me"
