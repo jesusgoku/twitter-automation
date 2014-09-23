@@ -1,7 +1,8 @@
 {
     "require": {
         "ricardoper/twitteroauth": "dev-master",
-        "symfony/console": "v2.5.4"
+        "symfony/console": "v2.5.4",
+        "symfony/yaml": "v2.5.4"
     },
     "autoload": {
         "psr-0": {
